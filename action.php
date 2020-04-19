@@ -1,5 +1,6 @@
 <?php
 
+
 //Block 1
 $servername = "localhost";
 $username = "root";
