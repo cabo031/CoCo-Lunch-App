@@ -4,8 +4,8 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "Table";
-$table = "Tablica";
+$dbname = "Database";
+$table = "Table";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname);

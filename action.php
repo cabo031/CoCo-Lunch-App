@@ -4,8 +4,8 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "Table";
-$table = "Tablica";
+$dbname = "Database";
+$table = "Table";
 
 //Block 2
 $restaurant_name = $_POST['RestaurantName'];
